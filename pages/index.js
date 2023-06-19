@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Kejar Target Produksi 1 Juta Barel, SDM Hulu Migas Harus Punya Sense of Crisis!" />
+        <Header title= />
         <p className="description">
-         “Dengan mengikuti The 13th IHRS 2023, para peserta mempunyai kesempatan untuk menggali tren, teknologi terkini, serta strategi utama di berbagai ruang sumber daya manusia yang berubah dengan cepat.
+         {"judul":“Dengan mengikuti The 13th IHRS 2023, para peserta mempunyai kesempatan untuk menggali tren, teknologi terkini, serta strategi utama di berbagai ruang sumber daya manusia yang berubah dengan cepat.}
         </p>
       </main>
 
