@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title= />
         <p className="description">
-         {"judul":“Dengan mengikuti The 13th IHRS 2023, para peserta mempunyai kesempatan untuk menggali tren, teknologi terkini, serta strategi utama di berbagai ruang sumber daya manusia yang berubah dengan cepat.}
+         “Dengan mengikuti The 13th IHRS 2023, para peserta mempunyai kesempatan untuk menggali tren, teknologi terkini, serta strategi utama di berbagai ruang sumber daya manusia yang berubah dengan cepat.
         </p>
       </main>
 
